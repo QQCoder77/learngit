@@ -6,4 +6,3 @@ Git is good
 ``` python
 print("hello")
 ```
-git 
